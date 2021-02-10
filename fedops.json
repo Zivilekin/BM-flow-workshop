@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "bm-flow-workshop.pages.index",
+    "notifications": {
+      "slack_channels": [
+        "bm-flow-workshop-urgent"
+      ]
+    },
+    "deploy_annotations": [
+      "bm-flow-workshop"
+    ],
+    "ignore_first_request_roundtrip": true
+  }
+]

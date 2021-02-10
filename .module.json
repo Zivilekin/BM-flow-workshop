@@ -1,0 +1,19 @@
+{
+  "moduleId": "BM_FLOW_WORKSHOP",
+  "appDefId": "df0bc579-9950-48e8-ac5a-46312d67c27e",
+  "isCoreService": true,
+  "routeNamespace": "bm-flow-workshop",
+  "translations": {
+    "enabled": true
+  },
+  "sentry": {
+    "DSN": "https://45fd60ac3ba44a37a5c4b6535e4bb8b0@sentry.wixpress.com/1282",
+    "id": "45fd60ac3ba44a37a5c4b6535e4bb8b0",
+    "projectName": "bm-flow-workshop",
+    "teamName": "workshop"
+  },
+  "experiments": {
+    "scopes": ["bm-flow-workshop"]
+  },
+  "enabledByExperiments": ["specs.infra.yoshi-bm.ChangeMe"]
+}
